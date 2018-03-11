@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Business Card</string>
+
+    <!-- Restaurant name [CHAR LIMIT=15] -->
+    <string name="restaurant_name">CIAO BELLA</string>
+
+    <!-- Restaurant description [CHAR LIMIT=NONE] -->
+    <string name="description">Bringing a traditional Italian restaurant to Central London, Ciao Bella will surprise and delight your taste buds and show you what \'La Dolce Vita\' is all about.</string>
+
+    <!-- Restaurant website [CHAR LIMIT=NONE]-->
+    <string name="website">ciaobellarestaurant.co.uk</string>
+
+    <!-- Restaurant phone number [CHAR LIMIT=NONE]-->
+    <string name="phone_number">+44 20 7242 4119</string>
+
+    <!-- Restaurant address [CHAR LIMIT=NONE]-->
+    <string name="address">86&#x2013;90 Lambs Conduit Street, Bloomsbury, London, WC1N 3LZ</string>
+
+</resources>
